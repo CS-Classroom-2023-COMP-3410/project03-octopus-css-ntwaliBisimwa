@@ -1,0 +1,4 @@
+To start, I am first going back to the freecodecamp and review some speficic things on css that I think I did not understand well. 
+After reviewing some basic concepts, I went back to tackle the assignment. 
+Most tasks were pretty forward, but the main challenge that I seem to have had is that the content of the "#header" id would display way bigger than in the screenshot. What I mean is that the blue box seemed bigger than the screenshot. I tried messing with the padding and margin to fix it but it did not work, so I let it be. 
+Otherwise, the tasks were pretty easy to do and if I forgot a specific syntax, I would look it up.  
